@@ -1,0 +1,30 @@
+### Java ###
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# BlueJ
+*.ctxt
+
+.idea
+*.iml
+
+# Eclipse
+bin/
+.metadata/
+.settings/
+*~
+*.project
+*.classpath
+
+# Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+.nb-gradle/
